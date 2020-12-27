@@ -14,7 +14,7 @@
 
 |     프로젝트      |                          저장소                          | 완료일 |
 | :--------------: | :----------------------------------------------------------: |:--:|
-|  [숫자 야구 게임](https://github.com/woowacourse/java-baseball-precourse)  | - | - |
+|  [숫자 야구 게임](https://github.com/woowacourse/java-baseball-precourse)  | [✔](https://github.com/outstanding1301/java-baseball-precourse) | 20/12/27 |
 | [자동차 경주 게임](https://github.com/woowacourse/java-racingcar-precourse) | - | - |
 |      [블랙잭](https://github.com/woowacourse/java-blackjack-precourse)      | - | - |
 
