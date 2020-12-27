@@ -5,7 +5,8 @@
 >  [우아한테크코스](https://github.com/woowacourse) 저장소의 퀴즈들을 공부하는 저장소입니다.
 >  
 >  [학습 로드맵](https://github.com/woowacourse/roadmap)  
->  [구글 Java 스타일가이드](https://google.github.io/styleguide/javaguide.html)
+>  [구글 Java 스타일가이드](https://google.github.io/styleguide/javaguide.html)  
+>  [AngularJS commit conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
 <br/>
 
